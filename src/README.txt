@@ -1,0 +1,1 @@
+Run with LittleTetris.java, no arguments.  In order to run with speed, turn off all graphics.
